@@ -23,3 +23,9 @@ My name is Dan Zulla. I was a 2013 Thiel Fellow.
 - 👯 Exploring High-Level Synthesis of Python3 code to Verilog for FPGA Accelerators or entire CPUs / SoCs https://www.llvm.org/devmtg/2010-11/Rotem-CToVerilog.pdf
 - 🤔 Adding Instruction Set Randomization based on XOR shuffling of opcodes into LLVM clang and HQEMU
 - ⚡Obtaining Funding for Mescalin for 5 years of continued work on these and other projects with a team and collaborators, including full time salaries, hardware, prototypes, etc.
+
+### Experience 
+
+- 🔭 I have worked as a web security penetration tester extensively, know the landscape of tools, can write and have written my own, know how to fix and exploit vulnerabilities, can review source code in a variety of languages and build secure web applications
+- 📫 Plenty of academic subjects have been vividly read and explored, ranging from security to many matters of computer science
+- 👯 I am very familiar with the subject of browser fingerprinting and bot detection
