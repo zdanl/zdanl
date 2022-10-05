@@ -15,3 +15,11 @@ Here are some things about me:
 - ⚡ Fun fact: I like computers + cats.
 
 My name is Dan Zulla. I was a 2013 Thiel Fellow.
+
+### Projects
+
+- 🔭 Helping Debian/Ubuntu to support the Qualcomm Snapdragon 7c 2G Kyro 468 based Samsung Galaxy Go LTE which is ARM64 because it has only a 300$ price point, and anybody should be able to run Linux on a ARMv8 desktop.
+- 📫 Implementing AES runtime decryption for ELF32/ELF64 x86-64 and ARMv8 as a feature into the Python Compiler Nuitka as demonstrated in https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf
+- 👯 Exploring High-Level Synthesis of Python3 code to Verilog for FPGA Accelerators or entire CPUs / SoCs https://www.llvm.org/devmtg/2010-11/Rotem-CToVerilog.pdf
+- 🤔 Adding Instruction Set Randomization based on XOR shuffling of opcodes into LLVM clang and HQEMU
+- ⚡Obtaining Funding for Mescalin for 5 years of continued work on these and other projects with a team and collaborators, including full time salaries, hardware, prototypes, etc.
