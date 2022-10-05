@@ -14,3 +14,4 @@ Here are some things about me:
 - 😄 Pronouns: he/it
 - ⚡ Fun fact: I like computers + cats.
 
+My name is Dan Zulla. I was a 2013 Thiel Fellow.
