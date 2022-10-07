@@ -2,7 +2,7 @@
 
 **zdanl** is a ✨ _special_ ✨ repository because it is _actively_ maintained and (increasingly) contains ✨`ethical`✨ code.
 
-I am interested in a variety of technological and scientific subjects, and have vivid insight into a variety of industries. Some of the prospective achievements require further learning and insight, while others require just funding or work. I am using this Github to elaborate on what is planned, and why you should care. I am an undergraduate in Computer Science at Internationale Hochschule (IU). Please find my Notion page as well: https://zdanl.notion.site/zdanl-s-braindump-d742c830664441cfb7470d07d852c158
+I am interested in a variety of technological and scientific subjects, and have vivid insight into a variety of industries. Some of the prospective achievements require further learning and insight, while others require just funding (meetings) or work (weeks). I am using this Github to elaborate on what is planned, and why you should care. I am an undergraduate in Computer Science at Internationale Hochschule (IU). Please find my Notion page as well: https://zdanl.notion.site/zdanl-s-braindump-d742c830664441cfb7470d07d852c158
 
 Here are some things about me:
 
