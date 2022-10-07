@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**zdanl** is a ✨ _special_ ✨ repository because it contains and will contain ✨`ethical`✨ code and projects for improving (digital) life. I am interested in a variety of technological and scientific subjects, and have vivid insight into a variety of industries. Some of the prospective achievements require further learning and insight, while others require just funding or work. I am using this Github to elaborate on what is planned, and why you care. I am an undergrad in Computer Science at Internationale Hochschule.
+**zdanl** is a ✨ _special_ ✨ repository because it is actively maintained and (increasingly) contains ✨`ethical`✨ code and research for improving (digital) life. I am interested in a variety of technological and scientific subjects, and have vivid insight into a variety of industries. Some of the prospective achievements require further learning and insight, while others require just funding or work. I am using this Github to elaborate on what is planned, and why you should care. I am an undergraduate in Computer Science at Internationale Hochschule (IU). Please find my Notion page as well: https://zdanl.notion.site/zdanl-s-braindump-d742c830664441cfb7470d07d852c158
 
 Here are some things about me:
 
